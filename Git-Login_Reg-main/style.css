@@ -1,0 +1,18 @@
+.register{
+    text-align: center;
+    margin-top: 20%;
+    background-color: black;
+    color: white;
+    width: 40%;
+    margin-left: 32%;
+    border-radius: 10px;
+}
+input{
+    font-size: larger; 
+    font-weight: 300;
+    border-radius: 5px;
+    border: none;
+}
+label{
+    font-size: larger;
+}
